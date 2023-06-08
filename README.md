@@ -6,7 +6,7 @@
 - 📬 How to reach me: <mailto:aashishrewa2001@gmail.com>
 - 📝 [Resume](https://drive.google.com/file/d/1j-5iynvh-LFFsxdG6XeqTZ4DfbNRCXuq/view?usp=sharing)
 - 💪 This is where I write, code and solve problems:
-- ![hackerrank](https://github.com/aashishrewa2001/aashishrewa2001/assets/126437937/f0855b1d-6283-4854-9c8f-a688064683e5)
+- ![hackerrank](https://www.hackerrank.com/aashishrewa2001?hr_r=1)
 
 - 😄 Pronoun : (he/him)
 - ⚡ Fun fact: [object Object]
